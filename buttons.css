@@ -1,0 +1,57 @@
+
+        button {
+        padding: 10px;
+        color:red;
+
+        }
+        .stretch-button {
+            margin:20px;
+            background-color: green;
+            color: white;
+            border: none;
+            transition:padding 0.15s;
+           
+        }
+        .stretch-button:hover {
+            padding:  30px;
+
+        }
+        .stretch-button:active {
+            background-color: blue;
+        }
+        .shade:hover {
+box-shadow:5px 5px 10px rgba(0,0,0,15);
+        }
+    .one {
+        background-color: green;
+        color:aliceblue;
+        border:none;
+       
+    }
+     .one:hover {    
+padding-left: 20px;
+padding-right: 20px;
+     }
+    .two:hover {
+        padding-left: 20px;
+padding-right: 20px;
+    }
+    
+    .two {
+        background-color: green;
+        color:aliceblue;
+        border:none;
+        margin:10px;
+        
+    }
+    .three {
+        background-color: green;
+        color:aliceblue;
+        border:none;
+        margin:10px;
+        
+    }
+    .three:hover {
+        padding-left: 20px;
+padding-right: 20px;
+    }
